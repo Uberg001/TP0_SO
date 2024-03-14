@@ -1,0 +1,11 @@
+[INFO] 20:44:17:246 Servidor/(4442:4442): Servidor listo para recibir al cliente
+[INFO] 21:00:17:188 Servidor/(4742:4742): Servidor listo para recibir al cliente
+[INFO] 21:04:49:950 Servidor/(4742:4742): Se conecto un cliente!
+[INFO] 21:04:49:958 Servidor/(4742:4742): Me llego el mensaje valor
+[INFO] 21:06:00:862 Servidor/(4742:4742): Me llegaron los siguientes valores:
+
+[INFO] 21:06:00:862 Servidor/(4742:4742): hola mundo
+[INFO] 21:06:00:862 Servidor/(4742:4742): 1234
+[INFO] 21:06:00:864 Servidor/(4742:4742): 5678
+[INFO] 21:06:00:864 Servidor/(4742:4742): hello there
+[ERROR] 21:06:00:865 Servidor/(4742:4742): el cliente se desconecto. Terminando servidor
